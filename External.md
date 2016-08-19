@@ -1,1 +1,4 @@
-I want to point to the confluence of concrete and digital poetics in the work of Brazilian poet Augusto de Campos (1931-), and Portuguese poets E. M. de Melo eCastro (1932-), and Tiago Gomez Rodrigues (1972-). The particular significance of Augusto de Campos and E.M. de Melo e Castro for my argument is that they were both pioneers of concrete poetics in the 1950s and 1960s and they have adopted computers in their creative process in the early stages of the development of personal computing in the 1980s. Tiago Gomez Rodrigues, on the other hand, is a digital and multimedia artist, who, in his digital film-poem Concretus (2002), self-consciously extends concretist research of the materiality of sound and writing into the textuality of the digital medium, in
+Line 1
+—
+Line 3
+—
